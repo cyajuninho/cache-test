@@ -7,11 +7,11 @@ Também foi criado uma rota _/emitentes/clear-cache_ onde é possível limpar o 
 
 
 **Primeira requisição**
-> Sem dados no cache
+> Sem dados no cache (589ms)
 ![image](https://github.com/user-attachments/assets/36df7340-3a97-48fc-868b-5183c862da93)
 
-**Segunda requisição**
-> Após ter guardado os dados em um cache
+**Segunda requisição** 
+> Após ter guardado os dados em um cache (13ms)
 ![image](https://github.com/user-attachments/assets/debbbdd3-0b39-41ad-9901-b4c565bc7525)
 
 
@@ -23,9 +23,9 @@ The objective of this project was to implement a route _/emitente/list_, where a
 A route _/emitentes/clear-cache_ was also created, allowing the cache created in the listing route to be cleared.
 
 **First Request**
-> No data in the cache
+> No data in the cache (589ms)
 ![image](https://github.com/user-attachments/assets/36df7340-3a97-48fc-868b-5183c862da93)
 
 **Second Request**
-> After storing the data in a cache
+> After storing the data in a cache (13ms)
 ![image](https://github.com/user-attachments/assets/debbbdd3-0b39-41ad-9901-b4c565bc7525)
